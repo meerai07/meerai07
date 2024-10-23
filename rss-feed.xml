@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Meera Iyer</title>
+		<description> </description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome to my site!</title>
+				
+					<dc:creator>Meera Iyer</dc:creator>
+				
+				
+					<description>&lt;p&gt;I am a high school senior, graduating in Spring 2025 from James Logan High School in Union City, CA.&lt;/p&gt;
+</description>
+				
+				<pubDate>Sat, 19 Oct 2024 00:00:00 -0700</pubDate>
+				<link>/about-meera</link>
+				<guid isPermaLink="true">/about-meera</guid>
+			</item>
+		
+			<item>
+				<title>Text Formatting</title>
+				
+					<dc:creator>Paul Le</dc:creator>
+				
+				
+					<description>&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+</description>
+				
+				<pubDate>Fri, 09 Sep 2016 00:00:00 -0700</pubDate>
+				<link>/text-formatting</link>
+				<guid isPermaLink="true">/text-formatting</guid>
+			</item>
+		
+	</channel>
+</rss>
